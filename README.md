@@ -1,2 +1,3 @@
-# SpyNote.exe
-Android spy 
+# SpyNote
+# Android spy 
+# For educational purpose
